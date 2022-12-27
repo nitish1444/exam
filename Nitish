@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+       <link href="css/bootstrap.min.css" rel="stylesheet">
+       <link href="css/exam.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container" id="con">
+        <h1 id="h1">Advanced Technologies</h1>  
+        <p id="p2">Machinery and Equipment Developed from the application of scientific knowledge</p>
+        <button type="button" class="btn btn-online-primary">learn more</button>
+        <button class="btn btn-primary" type="submit">Save Draft</button>     
+    </div>   
+
+
+
+
+
+
+</body>
+</html>
